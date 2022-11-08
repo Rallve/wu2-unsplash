@@ -23,4 +23,4 @@ Att försöka förstå mig på fetch gick ganska dåligt. Jag fick dessutom inge
 Personligen tycker jag att det hade varit väldigt användbart ifall vi fick en genomgång av hur man använder fetch eller en tutorial eller liknande. Det hade underlättat väldigt mycket. 
 
 Wave gav 0 alerts.
-Validatorn gav 63 errors.
+Validatorn gav 63 errors. Jag orkar inte fixa alla size errors.
